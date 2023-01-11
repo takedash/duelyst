@@ -165,7 +165,7 @@ F1[Cards.Spell.WarSurge] = [
 F1[Cards.Artifact.SunstoneBracers] = [
   {
     type: CardIntentType.ModifyATK,
-    amount: 1,
+    amount: 9,
     amountIsRebase: false,
     targets: CardTargetType.Friendly | CardTargetType.General,
   },
