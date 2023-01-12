@@ -803,21 +803,7 @@ l[Cards.Faction1.General] = {
   name: "1: Argeon Highmayne",
   description: "",
   text: [
-    "Lord Caldein and his three sons rode through the rolling Lyrian hills, their azurite lions loping along at an easy pace. They were armed but not armored: it was the sport of the hunt and not the business of war that brought them out. The sun glittered off gilded leather and jeweled harnesses as they talked among themselves.",
-    "‘Argeon, we have no need for larger armies, we have more than enough force to deal with reavers and other riff-raff.’",
-    "The target of the words frowned and ran a hand through his burnt orange hair. ‘Yes, Darian, we do. But we don't have enough to hold our borders if the other nations attack. We know Aestaria cannot be trusted, and that Akram and Xenkai hold grudges against us. We cannot allow ourselves to become weak in comparison.’",
-    "The remaining young man, Tobias, shook his head. ‘Aestaria again! You do go on about them.’",
-    "‘They betrayed us since the time of Consular Draug,’ Argeon said. ‘Honor demands that we remember that.’",
-    "‘Of course,’ Tobias answered. ‘But there is remembering a harm, and then there is letting that memory lure you into poor decisions. Increasing the size of the army will strain our resources for no reason. Being a fool isn't honorable.’",
-    "‘Besides, we have a way to pay back Aestaria, and ward off the Songhai and Vetruvians,’ Darian said. ‘The Arena! When our champions win the choicest orbs and leave the crumbs for the other nations, all of Mythron will know our strength.’",
-    "‘It isn't enough,’ Argeon said. ‘We need to--’",
-    "‘Peace, Argeon,’ Lord Caldein said. ‘You’re ruining a perfectly fine hunt.’",
-    "‘Sorry, Father,’ Argeon said. ‘I only want Lyonar to have its place of glory.’",
-    "‘I know. I will never regret adopting you as the Cub of the Highmayne. But this matter is settled. We do not need a standing army.’",
-    "Argeon bowed his head. ‘I understand. I will not speak of this with any of you again.’ He looked up and pointed to a clump of trees at the top of a low hill. ‘Shall we race?’",
-    "‘Last one in mucks out the stalls!’ Darian yelled and gave his mount the signal to run. The others followed suit, and soon the four lions were bounding up the hill, their riders laughing and yelling encouragement. ",
-    "They reached the shade of the trees and Tobias turned around to see that Argeon was bringing up the rear. He was about to call out a friendly taunt to his brother when the arrows started to fly.",
-    "[Next Chapter: Beam Shock]"
+    "nsb tempura"
   ].join("\n\n")
 }
 
